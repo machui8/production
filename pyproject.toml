@@ -20,4 +20,5 @@ dependencies = [
     "ucimlrepo>=0.0.7",
     "utils>=1.0.2",
     "yfinance>=0.2.65",
+    "shap>=0.45.0",
 ]
